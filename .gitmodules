@@ -1,0 +1,3 @@
+[submodule "YoloDetectionHoloLens-Unity"]
+	path = YoloDetectionHoloLens-Unity
+	url = https://github.com/EliTheNicasio/YoloDetectionHoloLens-Unity.git
